@@ -4,6 +4,7 @@
 Project Overview
 
   This project presents a comprehensive Sales Report Dashboard built using Microsoft Power BI. The dashboard helps visualize and analyze sales data to identify      trends, performance metrics, and key insights for business decision-making.
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Objectives
 
@@ -17,12 +18,15 @@ Project Overview
 
 5.Compare monthly, quarterly, and yearly sales trends.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🧩 Features
 
 Interactive Filters: Slice data by category, region, or time period.
 
 KPIs: Total Sales, Average Sales, Median Sales, Total Profit.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 🛠️ Tools & Technologies
@@ -33,6 +37,9 @@ Power BI Desktop
 
   1.Average Sales: --dax Avg Sales = AVERAGE(SalesData[Sales])
   2.Median Sales: dax--Median Sales = MEDIAN(SalesData[Sales])
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
   
 📈 Insights Delivered
 
@@ -44,6 +51,9 @@ Power BI Desktop
 
 4.Comparative analysis of average vs median performance.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 🧪 Future Improvements
 
 1.Add predictive forecasting using Power BI AI visuals.
@@ -51,6 +61,8 @@ Power BI Desktop
 2.Include customer segmentation.
 
 3.Integrate real-time data sources.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📎 How to Use
 
