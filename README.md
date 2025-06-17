@@ -1,8 +1,12 @@
 # Sales-Analysis
+
+
 Project Overview
+
   This project presents a comprehensive Sales Report Dashboard built using Microsoft Power BI. The dashboard helps visualize and analyze sales data to identify      trends, performance metrics, and key insights for business decision-making.
 
 🎯 Objectives
+
 1.Visualize sales performance over time.
 
 2.Analyze product-wise and region-wise sales.
@@ -14,6 +18,7 @@ Project Overview
 5.Compare monthly, quarterly, and yearly sales trends.
 
 🧩 Features
+
 Interactive Filters: Slice data by category, region, or time period.
 
 KPIs: Total Sales, Average Sales, Median Sales, Total Profit.
@@ -21,6 +26,7 @@ KPIs: Total Sales, Average Sales, Median Sales, Total Profit.
 
 
 🛠️ Tools & Technologies
+
 Power BI Desktop
 
 1.DAX (Data Analysis Expressions) for calculated fields:
@@ -29,6 +35,7 @@ Power BI Desktop
   2.Median Sales: dax--Median Sales = MEDIAN(SalesData[Sales])
   
 📈 Insights Delivered
+
 1.Identified top-performing products and categories.
 
 2.Regional analysis of sales and profit trends.
@@ -38,6 +45,7 @@ Power BI Desktop
 4.Comparative analysis of average vs median performance.
 
 🧪 Future Improvements
+
 1.Add predictive forecasting using Power BI AI visuals.
 
 2.Include customer segmentation.
@@ -45,6 +53,7 @@ Power BI Desktop
 3.Integrate real-time data sources.
 
 📎 How to Use
+
 1.Open the .pbix file in Power BI Desktop.
 
 2.Use the filters and slicers to explore the dashboard.
