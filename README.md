@@ -36,6 +36,7 @@ Power BI Desktop
 1.DAX (Data Analysis Expressions) for calculated fields:
 
   1.Average Sales: --dax Avg Sales = AVERAGE(SalesData[Sales])
+  
   2.Median Sales: dax--Median Sales = MEDIAN(SalesData[Sales])
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
